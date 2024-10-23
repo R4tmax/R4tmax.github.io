@@ -62,6 +62,7 @@ For this step to work, make sure, that you have configured your GH repo correctl
 
 Once all of this is done, all you need is:
 ```sh
+npm run build
 npm run deploy
 ```
 For all subsequent deploys.
