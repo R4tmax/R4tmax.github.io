@@ -19,6 +19,9 @@
   --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
   --vt-c-text-dark-1: var(--vt-c-white);
   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+
+  --vt-c-text-accent-1: rgba(236, 128, 3, 0.911);
+  --vt-background-higligher-1: rgba(165, 90, 3, 0.911);
 }
 
 /* semantic color variables for this project */
@@ -32,6 +35,9 @@
 
   --color-heading: var(--vt-c-text-light-1);
   --color-text: var(--vt-c-text-light-1);
+
+  --color-text-accent: var(--vt-c-text-accent-1);
+  --color-text-highligher: var(--vt-background-higlighter-1)
 
   --section-gap: 160px;
 }
