@@ -1,7 +1,11 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <main>
+    <section>
+      <h1>
+        Speedrun verze
+      </h1>
+    </section>
+  </main>
 </template>
 
 <style>
