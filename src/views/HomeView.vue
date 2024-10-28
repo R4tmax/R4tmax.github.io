@@ -4,9 +4,8 @@
 
 <template>
   <main>
-
+    <h1>Hello there!</h1>
     <section>
-      <h1>Hello there!</h1>
       <p>
         Martin Kadlec je jméno mé, a je mi ctí vás přívítat v mém kousku internetu,
         který jsem začal budovat, abych měl místo, kde podrobovat své myšlenky soudu a testu času a veřejnosti.

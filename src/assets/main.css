@@ -1,5 +1,13 @@
 @import './base.css';
 
+body {
+  font-family: Ubuntu;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Jura;
+}
+
 header {
   display: flex;
   place-items: center;
@@ -47,11 +55,44 @@ section {
   border-radius: 10px;
 }
 
+section h2 {
+  padding: 0.5rem 0;
+}
+
+section p {
+  margin-bottom: 1rem;
+}
+
+section p:last-of-type {
+  margin-bottom: 0;
+}
+
 a {
   text-decoration: none;
   color: var(--color-text-accent);
   transition: 0.4s;
   padding: 3px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.footer-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-subitem {
+  padding: 0 0.25rem;
+  border-right: 1px solid var(--color-border);
+}
+
+.footer-subitem:last-of-type {
+  border-right: none;
 }
 
 @media (hover: hover) {
