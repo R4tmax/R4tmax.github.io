@@ -115,3 +115,27 @@ footer {
   transition: none;
   transform: none;
 }
+
+/* Warning Card Banner */
+.warning-card {
+  padding: 1rem;
+  border: 2px solid orange;
+  border-radius: 5px;
+  background-color: var(--color-background); /* Match the page background */
+  color: var(--color-text); /* Match text color */
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.warning-card strong {
+  font-size: 1.05rem;
+  font-weight: bold;
+}
+
+/* Optional: Add icon and adjust padding */
+.warning-card::before {
+  content: "⚠️";
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}

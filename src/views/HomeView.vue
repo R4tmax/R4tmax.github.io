@@ -5,6 +5,10 @@
 <template>
   <main>
     <h1>Hello there!</h1>
+      <div class="warning-card">
+    <strong>Warning: &MediumSpace; </strong> Tato stránka je pod aktivním vývojem a její obsah se mění na téměř denní bázi, především linky v historii prohlížeče mohou přestat fungovat.
+  </div>
+
     <section>
       <p>
         Martin Kadlec je jméno mé, a je mi ctí vás přívítat v mém kousku internetu,
