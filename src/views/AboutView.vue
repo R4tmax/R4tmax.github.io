@@ -60,6 +60,12 @@
       </p>
 
       <p>
+        Stejně jako však každý zahradník může potvrdit, že se nejedná o lehkou práci, stejně tak digitální zahrady mají své úskalí - v totmto případě je třeba přiznat,
+        že záležitosti frontendového vývoje jsou pro mne spíše žáležitostí sekundární, tyto stránky tedy kromě toho, že reprezentují mou ambici dělat věci jinak, jsou zároveň experimentem.
+        Experimentem, jehož zásadní otázkou je, <em>jestli vůbec dokážu dělat věci jinak</em> - ideálně v takové formě, aby o ně měly lidé zájem.
+      </p>
+
+      <p>
         Takže děkuji, vážený čtenáři, za to, že se mnou sdílíte váš čas a vaši pozornost. It means the world to me. 
       </p>
     </section>
