@@ -7,12 +7,10 @@
         <li>
           Moje první vysoká byla ČVUT FIT. Long story short jsem svého času
           dostal solidní reality check. Potom, co jsem se trochu oklepal a
-          postavil rovnýma nohama na zem jsem nastoupil na VŠE FIS a během
-          prvního semestru si našel práci pro společnost Lundegaard, kde jsem se věnovali vývoji
-          pro Liferay CMS, DevOps a Projekotvému managmentu.
+          postavil rovnýma nohama na zem jsem nastoupil na VŠE FIS.
+          Momentálně studuji navazující obor Aplikovaná datová analytika a umělá inteligence na VŠE FIS.
         </li>
         <li>
-          Momentálně studuji obor Aplikovaná datová analytika a umělá inteligence na VŠE FIS.
           Ve volných chvílích pracuji jako freelancer a snažím se publikovat vlastní texty a články.
         </li>
         <li>
@@ -69,7 +67,119 @@
         Takže děkuji, vážený čtenáři, za to, že se mnou sdílíte váš čas a vaši pozornost. It means the world to me. 
       </p>
     </section>
+
+    <section>
+      <h2>GIVE ME MORE VERSION</h2>
+      <p>
+        Okay, phew, sure. Níže poskytuji pohled do hlubin svého nitra, nalož s ním jak potřebuješ.
+      </p>
+
+      <div class="gmm-pane-wrapper">
+        <div class="gmm-pane">
+          <h3>Core knihy</h3>
+          <ul>
+            <li>Nicholas Nassim Taleb - Black Swan</li>
+          </ul>
+          <ul>
+            <li>Raymond Kurzweil - How to create a mind</li>
+          </ul>
+          <ul>
+            <li>Daniel Kahneman - Thinking Fast and Slow</li>
+          </ul>
+          <ul>
+            <li>Marcus Aurelius - Meditations</li>
+          </ul>
+          <ul>
+            <li>Neil Gaiman - The Ocean at the end of the Lane</li>
+          </ul>
+          <ul>
+            <li>Neil Gaiman - American Gods</li>
+          </ul>
+          <ul>
+            <li>J.R.R. Tolkien - Lord of the Rings</li>
+          </ul>
+          <ul>
+            <li>...</li>
+          </ul>
+        </div>
+        <div class="gmm-pane">
+          <h3>Must watch</h3>
+          <ul>
+            <li>Lord of the Rings</li>
+          </ul>
+          <ul>
+            <li>Oppenheimer</li>
+          </ul>
+          <ul>
+            <li>Blade Runner</li>
+          </ul>
+          <ul>
+            <li>Mission Impossible (od Ghost Protocol nazad, o MI:II nemluvíme )</li>
+          </ul>
+          <ul>
+            <li>Marvel's Daredevil (ten s Charlie Coxem)</li>
+          </ul>
+          <ul>
+            <li>True Detective</li>
+          </ul>
+          <ul>
+            <li>House MD</li>
+          </ul>
+          <ul>
+            <li>1917</li>
+          </ul>
+          <ul>
+            <li>The Mentalist</li>
+          </ul>
+          <ul>
+            <li>...</li>
+          </ul>
+        </div>
+        <div class="gmm-pane">
+          <h3>Best In Class game selection</h3>
+          <ul>
+            <li>Story Driven - Disco Elysium/CP2077</li>
+          </ul>
+          <ul>
+            <li>Shooter - Doom Eternal/SWAT 4/Returnal/BF2/Arma III/ Insurgency...</li>
+          </ul>
+          <ul>
+            <li>Racing - Grid Rally 2</li>
+          </ul>
+          <ul>
+            <li>Stealth - Deus Ex: Human Revolution</li>
+          </ul>
+          <ul>
+            <li>Competetive - Overwatch</li>
+          </ul>
+          <ul>
+            <li>Survival - STALKER: GAMMA</li>
+          </ul>
+          <ul>
+            <li>Horror - RE2,RE4, Silent Hill</li>
+          </ul>
+          <ul>
+            <li>Strategy - Starcraft II/Company of Heroes 2/Civilization IV/Total War: Shogun 2/XCOM</li>
+          </ul>
+          <ul>
+            <li>RPGs - Dark Souls+Bloodborne/Witcher/Mass Effect (1-3)/Pillars of Eternity...  </li>
+          </ul>
+        </div>
+      </div>
+      
+    </section>
   </main>
 </template>
 
-<style></style>
+<style scoped>
+
+.gmm-pane-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gmm-pane ul {
+  padding-left: 1.25rem ;
+}
+
+</style>

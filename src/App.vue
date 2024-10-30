@@ -8,13 +8,14 @@ import { RouterLink, RouterView } from 'vue-router'
       <RouterLink
         active-class="header-name-rl-override"
         exact-active-class="header-name-rl-override"
+
         to="/"
         >Martin Kadlec</RouterLink
       >
     </h1>
     <div class="nav-wrapper">
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <!-- <RouterLink to="/">Home</RouterLink> -->
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/blog">Blog</RouterLink>
         <!-- <RouterLink to="/cv">CV</RouterLink> -->
@@ -37,7 +38,7 @@ import { RouterLink, RouterView } from 'vue-router'
     </div>
     <div class="footer-item">
       <div class="footer-subitem">
-        <a href="mailto:kadm09@vse.cz" target="_blank">
+        <a href="mailto:kadlec.m.90@gmail.com" target="_blank">
           <i class="fa-regular fa-envelope"></i> Napište mi!</a
         >
       </div>
