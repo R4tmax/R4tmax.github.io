@@ -30,7 +30,7 @@ const router = createRouter({
     {
       path: '/blogPosts/huxleyBrothers',
       name: 'Tale of Huxley Brothers',
-      component: () => import('../views/blogPosts/huxleyBrothers.vue')
+      component: () => import('../views/blogPosts/HuxleyBrothers.vue')
     }
   ]
 })
