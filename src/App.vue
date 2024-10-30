@@ -5,7 +5,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
 
   <header>
-    <h1>Martin Kadlec</h1>
+    <h1 class="header-name"><RouterLink active-class="header-name-rl-override" exact-active-class="header-name-rl-override" to="/">Martin Kadlec</RouterLink></h1>
       <div class="nav-wrapper">
         <nav>
           <RouterLink to="/">Home</RouterLink>
@@ -31,4 +31,3 @@ import { RouterLink, RouterView } from 'vue-router'
     </div>
   </footer>
 </template>
-
