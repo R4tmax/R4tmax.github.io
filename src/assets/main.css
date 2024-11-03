@@ -139,3 +139,26 @@ footer {
   margin-right: 0.5rem;
   font-size: 1.2rem;
 }
+
+.info-card {
+  padding: 1rem;
+  border: 2px solid lightskyblue;
+  border-radius: 5px;
+  background-color: var(--color-background); /* Match the page background */
+  color: var(--color-text); /* Match text color */
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}
+
+.info-card strong {
+  font-size: 1.05rem;
+  font-weight: bold;
+}
+
+/* Optional: Add icon and adjust padding */
+.info-card::before {
+  content: "ℹ️";
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}
