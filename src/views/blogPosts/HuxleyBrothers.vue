@@ -1,16 +1,24 @@
 <template>
   <div class="info-card">
-    Následující článek vychází z textů, které jsem vypracoval v rámci
-    bakalářského studia v předmětech Filozofie pro informatiky a Fenomén
-    myšlení, které nikdy nebyly publikované mimo půdu VŠE a budou přiloženy v
-    rámci referencí na konci článku. V tomto článku lze pracovat s premisou, že
-    zdroje použité v těcho pracech jsou referencemi sekundárními pro celý tento
-    článek s různou mírou relevance, a to do doby než dokončím ruční validaci a
-    ozdrojování jednotlivých pasáží pro tuto upravenou a předělanou formu těchto
-    publikací.
-
-    <div class="card-button">
-        <p><a href="#references">Ok, ukaž mi rovnou zdroje prosím.</a></p>
+    <div class="card-content-wrapper">
+        <!-- <div class="card-content-icon">
+            <i class="fa-solid fa-info" aria-hidden="true"></i>
+        </div> -->
+        <div class="card-content">
+            <p>
+                Následující článek vychází z textů, které jsem vypracoval v rámci
+                bakalářského studia v předmětech Filozofie pro informatiky a Fenomén
+                myšlení, které nikdy nebyly publikované mimo půdu VŠE a budou přiloženy v
+                rámci referencí na konci článku. V tomto článku lze pracovat s premisou, že
+                zdroje použité v těcho pracech jsou referencemi sekundárními pro celý tento
+                článek s různou mírou relevance, a to do doby než dokončím ruční validaci a
+                ozdrojování jednotlivých pasáží pro tuto upravenou a předělanou formu těchto
+                publikací.
+            </p>
+        </div>
+        <div class="card-button">
+            <p><a href="#references">Ok, přejďeme rovnou k těmto pracem prosím!</a></p>
+        </div>
     </div>
   </div>
   <h1>
@@ -44,7 +52,7 @@
     Budu vám
       vyprávět příběh o tom, jak výše popsané věci nejsou náhlým a nečekaným vývojem, nýbrž realizací dlouholeté vize, která lomcovala (a
       stále lomcuje) úvahami filozofů, inženýrů, specialistů na etiku, biologů a
-      lidí nejrůznějších povolání. Budu vám vyprávět příběh o tom, jakým směrem
+      lidí nejrůznějších dalších povolání. Budu vám vyprávět příběh o tom, jakým směrem
       vane vítr současné technologické inovace a odkud se tento vítr vůbec vzal, a proč si na tohle všechno dát pozor.
     </p>
   </section>
@@ -318,8 +326,8 @@
     <div class="artcile-closure bibliography">
         <h3 id="references">References</h3>
         <ul>
-            <li><a href="/public/Kadlec_transhumanismus.pdf" target="_blank" rel="noopener noreferrer">TRANSHUMANISMUS, Martin Kadlec, 2023, VŠE</a></li>
-            <li><a href="/public/kadm09_esej_transhumanismus-v-multimediich.pdf" target="_blank" rel="noopener noreferrer">VLIV MULTIMÉDIÍ NA RECEPCI TRANSHUMANISMU, Martin Kadlec, 2023, VŠE</a></li>
+            <li><a href="/Kadlec_transhumanismus.pdf" target="_blank" rel="noopener noreferrer">TRANSHUMANISMUS, Martin Kadlec, 2023, VŠE</a></li>
+            <li><a href="/kadm09_esej_transhumanismus-v-multimediich.pdf" target="_blank" rel="noopener noreferrer">VLIV MULTIMÉDIÍ NA RECEPCI TRANSHUMANISMU, Martin Kadlec, 2023, VŠE</a></li>
         </ul>
     </div>
   </section>
