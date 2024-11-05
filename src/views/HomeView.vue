@@ -17,7 +17,7 @@
 
       <p>
         Ve zkratce: Jsem softwarový inženýr, rádoby filozof, vášnivý čtenář a v obecné rovině sběratel různorodých a podivných aktivit a zájmů.
-        V životě jsem měl doposud tu čest věnovat se automatizačním projektům českého IT, transhumanismu, atletice, výuce angličtiny a mnohému dalšímu.
+        V životě jsem měl doposud tu čest věnovat se webovému vývoji, automatizačním projektům českého IT, transhumanismu, atletice, výuce angličtiny a mnohému dalšímu.
         Pokud se chcete dozvědět více o mne, stačí si nastudovat následující <RouterLink to="/about">podstránku</RouterLink>!
       </p>
     </section>
