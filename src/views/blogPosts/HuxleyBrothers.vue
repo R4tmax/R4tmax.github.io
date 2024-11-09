@@ -284,6 +284,23 @@
         <p>Moje pointa zde je: není náhoda, že některé katastrofické předikce ohledně AI jsou defacto jedna ku jedné jako ze scénáře Terminátora. Jsou totiž doslova a do písmene okopírované z příběhu Skynetu, SHODANu, a HAL9000 a mnohých jiných. Moderní multimédia a jejich tvůrci položili základy a premisy moderního techno-skepticismu vůbec předtím, než si většina lidí uvědomila, že něco jako AI vůbec existuje.</p>
   </section>
 
+  <h2>Transhumanismus v naišch životech</h2>
+  <section>
+    <p>Je příhodné, že jsem se rozhodl začít psát tento blog v těchto dnech. Bez toho, aniž bych vás nabádal ke studiu nějakých textů, nebo abych tady složitě dával enumeraci, kde všude můžete tyhle myšlenky spatřit, vám můžu dát do ruky velmi přímý a velmi populární příklad. Arcane.
+    </p>
+
+    <p>That's right. Arcane od Riot Games na Netflixu. Viktor reprezentuje ultimání transhumanistickou myšlenku. Nejprve jako vyvrhel společnosti, bojující za lepší zítřek, později jako fundamentalista myšlenky <em>stroje nad člověkem</em>. O tom to koneckonců je. Ne nadarmo se říká, že cesta do pekla je dlážděná dobrými úmysly. Jak daleko bude lidstvo ochotné zajít, aby léčilo choroby, bojovalo se smrtí a měnilo náš svět? Viktor v této otázce neměl na výběr. My ano.</p>
+
+    <p>Here is a food for thought. Před stovkou let jsme objevili, jak předejít transfúzní nemoci. Poté jsme přišli na to, jak nahradit orgány. A poté jsme přišli na to, jak vyrábět protézy, které téměř zachovávájí funkci původních končetin. A brzy budeme o krok dál. Brzy dost možná budeme mít končetiny a orgány, které budou lepší, než naše původní. Co se stane se společností pak?
+      Budeme stát fronty na efektivnější játra, silnější paže, pevnější kosti? Jaký bude vztah augmentovaných a "přírodních" lidí? Jaká bude cena těchto augmentací? Jak se tito lidi změní? 
+    </p>
+
+    <p>And here is the real deal. Životy lidí dnes jsou nesrovnatelné s životy lidí, kteří žili před sto lety. Spousta lidí polemizuje o kvalitách těchto změn - and that's the point. Ušli jsme dlouhou cestu, jsme připraveni na to, pokračovat v této pouti?</p>
+
+    <p>Nanotechnologie, obnovitelné zdroje, digitalizace světa ,umělá inteligence, genové terapie - tohle všechno a mnohem víc bylo snem transhumanistů minulého století. Snem, který je dnes z velké části realitou, realitou která se stále vyvíjí, a zdaleka nejsme na konečné. Ale už dnešní optikou vidíme celé panorama před sebou, v celé své kráse. Na straně jedné slib neuvěřitelných nových pokroků, na straně druhé je těžké nemít obavy z ničevého potenciálu, který má dnes člověk v ruce. Optimista a Skeptik. Julian a Aldous.</p>
+
+  </section>
+
   <div class="direct-quote-highlight">
     <p>
       <em
@@ -306,10 +323,10 @@
 
     <p>Osobně nevím, jestli transhumanistická filozofie je net positive nebo negative faktor v našich životech. Nevím, kam přesně náš technologický pokrok povede a nevím, jestli to bude k našemu benefitu. Vím ale, kam se ho dnešní vynálezci a futorologové snaží směrovat, a to je lepší, než nevědět nic. Transhumanismus totiž není jenom teoretická úvaha, je to vize, vize která podtrhává technologický pokrok těchto dní. Vize, která má potenciál přetransformovat, co to znamená být člověkem.</p>
 
-    <p>Stejně tak vím, že společnosti, které vedou pomyslný předvoj těchto technologií mají (bohužel) zpravidla přinejlepším zavádějící tvrzení ohledně toho, jaká rozhodnutí jsou potřeba a co jsou jejich motivace. Ale přítomnost není nic jiného než logická kontiunace minulosti, a přítomnost je substrát pro logickou kontinuaci budoucnosti. Transhumanistická témata budou v následujících letech přibývat na významu, ať už ve volebních místnostech, veřejné diskuzi nebo rozhodnutích o našich životech, našich tělech. To není něco co lze brát na lehkou váhu, lidé by měli dělat kvalifikovaná, podložená rozhodnutí, ale to v dnešním světě není vůbec jednoduché. </p>
+    <p>Stejně tak vím, že společnosti, které vedou pomyslný předvoj těchto technologií mají (bohužel) zpravidla přinejlepším zavádějící tvrzení ohledně toho, jaká rozhodnutí jsou potřeba a co jsou jejich motivace. Ale přítomnost není nic jiného než logická kontiunace minulosti, a přítomnost je substrát pro logickou kontinuaci budoucnosti. Transhumanistická témata budou v následujících letech přibývat na významu, ať už ve volebních místnostech, veřejné diskuzi nebo rozhodnutích o našich životech, našich tělech. To není něco co lze brát na lehkou váhu, lidé by měli dělat kvalifikovaná, podložená rozhodnutí, ale to v dnešním světě není vůbec jednoduché. Here is my tip: Start from the beginning.</p>
 
-    <p>Proto, milý čtenáři, doufám, že ti tento článek poskytl zajímavý výlet do historie, ze kterého si lze odnést trochu vhledu do dnešní doby. Protože mít
-        ucelený vhled je něco, co se dá vždycky uplatnit, ať už si to uvědomujeme nebo ne. Vím, že to není vždy jen tak, ale moje osobní přesvědčení je, že každý z nás musí být upřímný sám k sobě a zvážit, co přesně motivuje a informuje naše názory, chování a stanoviska - a to může mimo naše přirozené domény být velmi náročné. Ale je to jedna z nejdůležitějších věcí, kterou můžete ve svém životě pro sebe udělat. Proto doufám, že ti třeba někdy tento článek pomůže udělat kvalifikovanou volbu.
+    <p>
+      Dovolte mi se dnes rozloučit s otázkou. Are we transhuman yet? Do we even want to be? And what are we prepared to sacrifice?
     </p>
     
   </section>
@@ -319,6 +336,8 @@
         <h3>Errata</h3>
         <ul>
             <li>Todo: APA compliant references</li>
+            <li>Todo: Add Raymond Kurzweil book review to references</li>
+            <li>EDIT_11-09-2024:Added "Transhumanismus v našich životech" section, minor rewrites</li>
             <li>...</li>
         </ul>
         
