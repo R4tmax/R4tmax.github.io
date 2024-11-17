@@ -25,6 +25,11 @@
     Příběh bratří Huxleyů, aneb co je to Transhumanismus, a proč by mě to mělo
     zajímat?
   </h1>
+  <section class="article-details">
+    <p>Autor: Martin Kadlec</p>
+    <p>Datum publikace: <time datetime="2024-11-5">5.11.2024</time></p>
+    <p>Naposledy aktualizováno: <time datetime="2024-11-17">17.11.2024</time></p>
+  </section>
   <section>
     <p>
       Nehledě na vaše zázemí, přesvědčení, původ a náturu, se asi všichni
@@ -337,8 +342,8 @@
         <ul>
             <li>Todo: APA compliant references</li>
             <li>Todo: Add Raymond Kurzweil book review to references</li>
-            <li>EDIT_11-09-2024:Added "Transhumanismus v našich životech" section, minor rewrites</li>
-            <li>...</li>
+            <li>EDIT_2024-11-09:Added "Transhumanismus v našich životech" section, minor rewrites</li>
+            <li>EDIT_2024-11-17:Added final author source, add article detail section</li>
         </ul>
         
     </div>
@@ -347,12 +352,24 @@
         <ul>
             <li><a href="/Kadlec_transhumanismus.pdf" target="_blank" rel="noopener noreferrer">TRANSHUMANISMUS, Martin Kadlec, 2023, VŠE</a></li>
             <li><a href="/kadm09_esej_transhumanismus-v-multimediich.pdf" target="_blank" rel="noopener noreferrer">VLIV MULTIMÉDIÍ NA RECEPCI TRANSHUMANISMU, Martin Kadlec, 2023, VŠE</a></li>
+            <li><a href="/Recenze_RK_ToSM.pdf" target="_blank" rel="noopener noreferrer">RECENZE - THE AGE OF SPIRITUAL MACHINES (RAY KURZWEIL 1999), Martin Kadlec, 2023, VŠE</a></li>
         </ul>
     </div>
   </section>
 </template>
 
 <style scoped>
+.article-details{
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);;
+  background-color: transparent;
+}
+
+.article-details p {
+  display: inline-block;
+  margin: 0 5px;
+}
+
 .direct-quote-highlight {
   font-family: Dosis;
   font-size: 1.75rem;
